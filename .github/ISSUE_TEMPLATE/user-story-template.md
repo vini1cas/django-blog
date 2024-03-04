@@ -1,6 +1,6 @@
 ---
 name: User Story Template
-about: Cuatome template for project user stories
+about: Custom template for project user stories
 title: ''
 labels: ''
 assignees: ''
